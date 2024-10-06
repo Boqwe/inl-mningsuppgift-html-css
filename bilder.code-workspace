@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bilder",
+			"path": "../silicon/bilder"
+		},
+		{
+			"name": "html",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
